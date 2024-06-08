@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "asymmetry"]
 	path = asymmetry
-	url = https://github.com/cran/asymmetry
+	url = https://github.com/berriez/asymmetry
